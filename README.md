@@ -1,19 +1,3 @@
-## Hi there 👋
-
-<!--
-**shahzad-laghari/shahzad-laghari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
 
   <!-- 1. Header Banner Image (Apni image ka link yahan src mein lagayein) -->
@@ -94,8 +78,7 @@ Here are some ideas to get you started:
 | 📞 **WhatsApp** | [+92 349 8873336](https://wa.me/923498873336) |
 | ✉️ **Email** | [shahzadali.official6@gmail.com](mailto:shahzadali.official6@gmail.com) |
 | 💼 **LinkedIn** | [linkedin.com/in/shahzad-ali](https://linkedin.com/in/shahzad-ali) |
-| 🌐 **Portfolio** | [shahzad-portfolio-phi.vercel.app](https://shahzad-portfolio-phi.vercel.app) |<img width="2172" height="724" alt="banner" src="https://github.com/user-attachments/assets/35bc8cd7-cc44-44e5-a249-711d2bb36333" />
-
+| 🌐 **Portfolio** | [shahzad-portfolio-phi.vercel.app](https://shahzad-portfolio-phi.vercel.app) |
 
 ---
 
