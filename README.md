@@ -108,15 +108,15 @@ I'm a Java Backend Developer specializing in **Spring Boot 3**, secure authentic
 #### ⚙️ Backend & Architecture (Core Focus)
 <table>
 <tr>
-<td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java"/><br/><sub>Java</sub></td>
-<td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" alt="Spring"/><br/><sub>Spring</sub></td>
-<td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Boot"/><br/><sub>Spring Boot</sub></td>
-<td align="center" width="80"><img src="https://cdn.simpleicons.org/springsecurity/6DB33F" width="48" height="48" alt="Spring Security"/><br/><sub>Spring Security</sub></td>
-<td align="center" width="80"><img src="https://cdn.simpleicons.org/jsonwebtokens/000000" width="48" height="48" alt="JWT"/><br/><sub>JWT Auth</sub></td>
-<td align="center" width="80"><img src="https://cdn.simpleicons.org/openapiinitiative/6BA539" width="48" height="48" alt="REST API"/><br/><sub>REST APIs</sub></td>
-<td align="center" width="80"><img src="https://cdn.simpleicons.org/swagger/85EA2D" width="48" height="48" alt="Swagger"/><br/><sub>Swagger</sub></td>
-<td align="center" width="80"><img src="https://cdn.simpleicons.org/junit5/25A162" width="48" height="48" alt="JUnit"/><br/><sub>JUnit</sub></td>
-<td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="48" height="48" alt="Maven"/><br/><sub>Maven</sub></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java"/><br/><sub>Java</sub></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" alt="Spring"/><br/><sub>Spring</sub></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Boot"/><br/><sub>Spring Boot</sub></td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/springsecurity/6DB33F" width="48" height="48" alt="Spring Security"/><br/><sub>Spring Security</sub></td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/jsonwebtokens/000000" width="48" height="48" alt="JWT"/><br/><sub>JWT Auth</sub></td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/openapiinitiative/6BA539" width="48" height="48" alt="REST API"/><br/><sub>REST APIs</sub></td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/swagger/85EA2D" width="48" height="48" alt="Swagger"/><br/><sub>Swagger</sub></td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/junit5/25A162" width="48" height="48" alt="JUnit"/><br/><sub>JUnit</sub></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="48" height="48" alt="Maven"/><br/><sub>Maven</sub></td>
 </tr>
 </table>
 
