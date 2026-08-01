@@ -111,7 +111,13 @@ I'm a Java Backend Developer specializing in **Spring Boot 3**, secure authentic
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java"/><br/>Java</td>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" alt="Spring"/><br/>Spring</td>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Boot"/><br/>Spring Boot</td>
+<td align="center" width="96"><img src="https://img.shields.io/badge/-Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" width="90" alt="Spring Security"/><br/>Spring Security</td>
 <td align="center" width="96"><img src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white" width="90" alt="JWT"/><br/>JWT Auth</td>
+</tr>
+<tr>
+<td align="center" width="96"><img src="https://img.shields.io/badge/-REST%20API-02569B?style=flat-square&logo=fastapi&logoColor=white" width="90" alt="REST API"/><br/>REST APIs</td>
+<td align="center" width="96"><img src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" width="90" alt="Swagger"/><br/>Swagger</td>
+<td align="center" width="96"><img src="https://img.shields.io/badge/-JUnit-25A162?style=flat-square&logo=junit5&logoColor=white" width="90" alt="JUnit"/><br/>JUnit</td>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="48" height="48" alt="Maven"/><br/>Maven</td>
 </tr>
 </table>
