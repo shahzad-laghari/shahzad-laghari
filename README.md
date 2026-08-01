@@ -105,50 +105,41 @@ I'm a Java Backend Developer specializing in **Spring Boot 3**, secure authentic
 
 ### 🛠️ Languages, Frameworks & Tools
 
-#### ⚙️ Backend & Architecture (Core Focus)
-<table>
-<tr>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java"/><br/><sub>Java</sub></td>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" alt="Spring"/><br/><sub>Spring</sub></td>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Boot"/><br/><sub>Spring Boot</sub></td>
-<td align="center" width="96"><img src="https://cdn.simpleicons.org/springsecurity/6DB33F" width="48" height="48" alt="Spring Security"/><br/><sub>Spring Security</sub></td>
-<td align="center" width="96"><img src="https://cdn.simpleicons.org/jsonwebtokens/000000" width="48" height="48" alt="JWT"/><br/><sub>JWT Auth</sub></td>
-<td align="center" width="96"><img src="https://cdn.simpleicons.org/openapiinitiative/6BA539" width="48" height="48" alt="REST API"/><br/><sub>REST APIs</sub></td>
-<td align="center" width="96"><img src="https://cdn.simpleicons.org/swagger/85EA2D" width="48" height="48" alt="Swagger"/><br/><sub>Swagger</sub></td>
-<td align="center" width="96"><img src="https://cdn.simpleicons.org/junit5/25A162" width="48" height="48" alt="JUnit"/><br/><sub>JUnit</sub></td>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="48" height="48" alt="Maven"/><br/><sub>Maven</sub></td>
-</tr>
-</table>
+#### ⚙️ Backend & Architecture
+<p>
+  <img src="https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
 
-#### 🎨 Frontend (Supporting Skills)
-<table>
-<tr>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5"/><br/>HTML5</td>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3"/><br/>CSS3</td>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/><br/>JavaScript</td>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap"/><br/>Bootstrap</td>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"/><br/>React</td>
-</tr>
-</table>
+#### 🎨 Frontend Development
+<p>
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
 #### 🗄️ Databases & Persistence
-<table>
-<tr>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL"/><br/>MySQL</td>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/><br/>PostgreSQL</td>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="48" height="48" alt="Hibernate"/><br/>Hibernate</td>
-</tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate_ORM-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
-#### 🔧 Tools & Environment
-<table>
-<tr>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/><br/>Git</td>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub"/><br/>GitHub</td>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code"/><br/>VS Code</td>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48" height="48" alt="Postman"/><br/>Postman</td>
-</tr>
-</table>
+#### 🔧 Tools & DevOps Environment
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
 ---
 
