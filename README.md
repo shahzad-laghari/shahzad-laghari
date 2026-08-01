@@ -9,7 +9,7 @@
 
   <!-- Dynamic Typing Animation Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D2FF&center=true&vcenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+%26+REST+APIs+Engineer;Full-Stack+Java+Software+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D2FF&center=true&vcenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%26+REST+APIs+Engineer;Full-Stack+Java+Software+Engineer;Building+Secure%2C+Scalable+Enterprise+Systems" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -19,11 +19,8 @@
     <img src="https://komarev.com/ghpvc/?username=shahzad-laghari&color=00D2FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   </p>
 
-  <!-- Quick Action Contact Buttons -->
+  <!-- Quick Action Contact Buttons (Phone removed for privacy) -->
   <p>
-    <a href="https://wa.me/923498873336" target="_blank">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-    </a>
     <a href="mailto:shahzadali.official6@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
@@ -44,7 +41,63 @@
 * 🚀 **Core Backend Focus**: Software Engineer with deep expertise in **Java 21**, **Spring Boot 3**, **Spring Security (JWT)**, and **RESTful Microservices/APIs**.
 * 🏦 **Featured Enterprise App**: Architected **SecureBank**, an enterprise-grade core banking engine featuring role-based authorization (RBAC), JWT authentication, and transactional ledger tracking.
 * 💻 **Full-Stack Capability**: Proficient in designing responsive modern UIs using **React**, **Thymeleaf**, **Tailwind CSS**, and **Bootstrap 5**.
-* 🎯 **Career Target**: Seeking Entry-Level / Junior Java Software Engineer roles to design high-performance enterprise systems.
+* 🎯 **Career Target**: Actively seeking backend / full-stack Java roles where I can build scalable REST APIs and secure, production-grade systems using Spring Boot.
+* 📚 **Currently Learning**: Deepening Spring Boot 3 (microservices, testing, observability) and exploring cloud deployment for Java applications.
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏦 SecureBank</h3>
+      <p align="center">Enterprise-grade full-stack banking platform with JWT authentication, role-based access control (RBAC), and transactional ledger tracking.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white"/>
+      </p>
+      <p align="center"><a href="https://github.com/shahzad-laghari/SecureBank-Enterprise-Full-Stack-Banking-Platform-Spring-Boot-JWT-MySQL-Thymeleaf-">🔗 View Repository</a></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🛒 ShopEase</h3>
+      <p align="center">Full-featured e-commerce platform built with Spring Boot, covering product catalog, cart, and order management.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white"/>
+      </p>
+      <p align="center"><a href="https://github.com/shahzad-laghari/shopease-ecommerce">🔗 View Repository</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏥 Hospital Management System</h3>
+      <p align="center">A complete hospital management solution handling patient records, appointments, and staff administration.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      </p>
+      <p align="center"><a href="https://github.com/shahzad-laghari/hospital-management-system">🔗 View Repository</a></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🤖 FaceGuard AI</h3>
+      <p align="center">AI-powered facial recognition system for secure identity verification and access control.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+      </p>
+      <p align="center"><a href="https://github.com/shahzad-laghari/FaceGuard-AI">🔗 View Repository</a></p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://shahzad-portfolio-phi.vercel.app">🌐 View My Full Portfolio Website →</a>
+</p>
 
 ---
 
@@ -88,20 +141,27 @@
 
 ---
 
-### 📞 Contact & Direct Links
-
-| Channel | Contact Info | Link |
-| :--- | :--- | :--- |
-| 📞 **WhatsApp** | `+92 349 8873336` | [Chat on WhatsApp](https://wa.me/923498873336) |
-| ✉️ **Email** | `shahzadali.official6@gmail.com` | [Send Email](mailto:shahzadali.official6@gmail.com) |
-| 💼 **LinkedIn** | `Shahzad Ali` | [View Profile](https://linkedin.com/in/shahzad-ali) |
-| 🌐 **Portfolio** | `shahzad-portfolio` | [Live Website](https://shahzad-portfolio-phi.vercel.app) |
-
----
-
 ### 📊 GitHub Activity Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shahzad-laghari&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzad-laghari&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahzad-laghari&theme=tokyonight&hide_border=true" width="70%" />
+</p>
+
+---
+
+### 📞 Contact & Direct Links
+
+| Channel | Contact Info | Link |
+| :--- | :--- | :--- |
+| ✉️ **Email** | `shahzadali.official6@gmail.com` | [Send Email](mailto:shahzadali.official6@gmail.com) |
+| 💼 **LinkedIn** | `Shahzad Ali` | [View Profile](https://linkedin.com/in/shahzad-ali) |
+| 🌐 **Portfolio** | `shahzad-portfolio` | [Live Website](https://shahzad-portfolio-phi.vercel.app) |
+
+<div align="center">
+  <sub>⭐ If you find my projects interesting, feel free to star the repos above!</sub>
+</div>
