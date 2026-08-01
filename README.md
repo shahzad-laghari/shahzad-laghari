@@ -1,19 +1,25 @@
 <div align="center">
 
-  <!-- 1. Header Banner Image (Apni image ka link yahan src mein lagayein) -->
+  <!-- 1. Header Banner Image -->
   <img src="https://raw.githubusercontent.com/shahzad-laghari/shahzad-laghari/main/banner.png" alt="Shahzad Ali Banner" width="100%" />
 
   <br/><br/>
 
   <h1>Hi 👋, I'm Shahzad Ali</h1>
-  <h3>⚡ Java Backend Engineer | Spring Boot & REST APIs Specialist ⚡</h3>
+
+  <!-- Dynamic Typing Animation Header -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D2FF&center=true&vcenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+%26+REST+APIs+Engineer;Full-Stack+Java+Software+Engineer" alt="Typing SVG" />
+  </a>
+
+  <br/><br/>
 
   <!-- Profile Visitor Counter -->
   <p>
-    <img src="https://komarev.com/ghpvc/?username=shahzad-laghari&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=shahzad-laghari&color=00D2FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   </p>
 
-  <!-- Connect / Social Badges -->
+  <!-- Quick Action Contact Buttons -->
   <p>
     <a href="https://wa.me/923498873336" target="_blank">
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -35,50 +41,61 @@
 
 ### 👨‍💻 About Me
 
-* 🚀 **Core Specialty**: Passionate Software Engineer specialized in **Java 21**, **Spring Boot 3**, **Spring Security (JWT)**, and scalable backend architecture.
-* 🏦 **Featured Project**: Built **SecureBank**, a full-stack enterprise core banking engine featuring role-based access control (RBAC), JWT authentication, and ACID-compliant transactional ledgers.
-* 💻 **Full-Stack Proficiency**: Experienced in building modern, responsive frontends using **React**, **Thymeleaf**, and **Tailwind CSS**.
-* 🎯 **Career Objective**: Actively seeking Entry-Level / Junior Java Developer positions to engineer reliable backend systems.
+* 🚀 **Core Backend Focus**: Software Engineer with deep expertise in **Java 21**, **Spring Boot 3**, **Spring Security (JWT)**, and **RESTful Microservices/APIs**.
+* 🏦 **Featured Enterprise App**: Architected **SecureBank**, an enterprise-grade core banking engine featuring role-based authorization (RBAC), JWT authentication, and transactional ledger tracking.
+* 💻 **Full-Stack Capability**: Proficient in designing responsive modern UIs using **React**, **Thymeleaf**, **Tailwind CSS**, and **Bootstrap 5**.
+* 🎯 **Career Target**: Seeking Entry-Level / Junior Java Software Engineer roles to design high-performance enterprise systems.
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Languages, Frameworks & Tools
 
-<p align="center">
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="50" height="50"/>&nbsp;&nbsp;
-  
-  <br/><br/>
+#### ⚙️ Backend & Architecture
+<p>
+  <img src="https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
 
-  <!-- Frameworks & Security -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" title="Spring Boot" alt="Spring Boot" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind CSS" alt="Tailwind CSS" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="50" height="50"/>&nbsp;&nbsp;
+#### 🎨 Frontend Development
+<p>
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-  <br/><br/>
+#### 🗄️ Databases & Persistence
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate_ORM-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
-  <!-- Databases & Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="50" height="50"/>
+#### 🔧 Tools & DevOps Environment
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
 
-### 📞 Contact Details
+### 📞 Contact & Direct Links
 
-| Channel | Link / Detail |
-| :--- | :--- |
-| 📞 **WhatsApp** | [+92 349 8873336](https://wa.me/923498873336) |
-| ✉️ **Email** | [shahzadali.official6@gmail.com](mailto:shahzadali.official6@gmail.com) |
-| 💼 **LinkedIn** | [linkedin.com/in/shahzad-ali](https://linkedin.com/in/shahzad-ali) |
-| 🌐 **Portfolio** | [shahzad-portfolio-phi.vercel.app](https://shahzad-portfolio-phi.vercel.app) |
+| Channel | Contact Info | Link |
+| :--- | :--- | :--- |
+| 📞 **WhatsApp** | `+92 349 8873336` | [Chat on WhatsApp](https://wa.me/923498873336) |
+| ✉️ **Email** | `shahzadali.official6@gmail.com` | [Send Email](mailto:shahzadali.official6@gmail.com) |
+| 💼 **LinkedIn** | `Shahzad Ali` | [View Profile](https://linkedin.com/in/shahzad-ali) |
+| 🌐 **Portfolio** | `shahzad-portfolio` | [Live Website](https://shahzad-portfolio-phi.vercel.app) |
 
 ---
 
@@ -87,8 +104,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shahzad-laghari&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzad-laghari&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahzad-laghari&theme=tokyonight&hide_border=true" width="97%" />
 </p>
