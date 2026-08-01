@@ -38,11 +38,13 @@
 
 ### 👨‍💻 About Me
 
-* 🚀 **Core Backend Focus**: Software Engineer with deep expertise in **Java 21**, **Spring Boot 3**, **Spring Security (JWT)**, and **RESTful Microservices/APIs**.
-* 🏦 **Featured Enterprise App**: Architected **SecureBank**, an enterprise-grade core banking engine featuring role-based authorization (RBAC), JWT authentication, and transactional ledger tracking.
-* 💻 **Full-Stack Capability**: Proficient in designing responsive modern UIs using **React**, **Thymeleaf**, **Tailwind CSS**, and **Bootstrap 5**.
-* 🎯 **Career Target**: Actively seeking backend / full-stack Java roles where I can build scalable REST APIs and secure, production-grade systems using Spring Boot.
-* 📚 **Currently Learning**: Deepening Spring Boot 3 (microservices, testing, observability) and exploring cloud deployment for Java applications.
+I'm a Java Backend Developer specializing in **Spring Boot 3**, secure authentication systems, and RESTful architecture. I recently architected **SecureBank** — a full-stack banking platform with JWT authentication, role-based access control, and transactional ledger tracking — the kind of security-first engineering real fintech systems demand.
+
+* 🏦 **Featured Build**: SecureBank — enterprise-grade core banking engine (RBAC + JWT + transactional integrity)
+* 💻 **Full-Stack Range**: Backend in Java/Spring Boot, frontend in React, Thymeleaf, and Tailwind CSS
+* 🎯 **Career Target**: Actively seeking backend / full-stack Java roles where I can build scalable REST APIs and secure, production-grade systems using Spring Boot
+* 📚 **Currently Learning**: Spring Boot 3 microservices, testing (JUnit/Testcontainers), and cloud deployment for Java applications
+* 🤝 **Open To**: Collaborating on backend-heavy open-source projects and Java/Spring Boot opportunities
 
 ---
 
@@ -144,12 +146,9 @@
 ### 📊 GitHub Activity Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahzad-laghari&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzad-laghari&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahzad-laghari&theme=tokyonight&hide_border=true" width="70%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shahzad-laghari&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahzad-laghari&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzad-laghari&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
