@@ -108,15 +108,15 @@ I'm a Java Backend Developer specializing in **Spring Boot 3**, secure authentic
 #### ⚙️ Backend & Architecture (Core Focus)
 <table>
 <tr>
-<td align="center" width="80"><img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" width="75" alt="Java"/><br/><sub>Java</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" width="75" alt="Spring"/><br/><sub>Spring</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" width="75" alt="Spring Boot"/><br/><sub>Spring Boot</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/-Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" width="75" alt="Spring Security"/><br/><sub>Spring Security</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white" width="75" alt="JWT"/><br/><sub>JWT Auth</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/-REST%20API-02569B?style=flat-square&logo=fastapi&logoColor=white" width="75" alt="REST API"/><br/><sub>REST APIs</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" width="75" alt="Swagger"/><br/><sub>Swagger</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/-JUnit-25A162?style=flat-square&logo=junit5&logoColor=white" width="75" alt="JUnit"/><br/><sub>JUnit</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" width="75" alt="Maven"/><br/><sub>Maven</sub></td>
+<td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java"/><br/><sub>Java</sub></td>
+<td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" alt="Spring"/><br/><sub>Spring</sub></td>
+<td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Boot"/><br/><sub>Spring Boot</sub></td>
+<td align="center" width="80"><img src="https://cdn.simpleicons.org/springsecurity/6DB33F" width="48" height="48" alt="Spring Security"/><br/><sub>Spring Security</sub></td>
+<td align="center" width="80"><img src="https://cdn.simpleicons.org/jsonwebtokens/000000" width="48" height="48" alt="JWT"/><br/><sub>JWT Auth</sub></td>
+<td align="center" width="80"><img src="https://cdn.simpleicons.org/openapiinitiative/6BA539" width="48" height="48" alt="REST API"/><br/><sub>REST APIs</sub></td>
+<td align="center" width="80"><img src="https://cdn.simpleicons.org/swagger/85EA2D" width="48" height="48" alt="Swagger"/><br/><sub>Swagger</sub></td>
+<td align="center" width="80"><img src="https://cdn.simpleicons.org/junit5/25A162" width="48" height="48" alt="JUnit"/><br/><sub>JUnit</sub></td>
+<td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="48" height="48" alt="Maven"/><br/><sub>Maven</sub></td>
 </tr>
 </table>
 
